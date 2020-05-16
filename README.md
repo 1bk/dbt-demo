@@ -1,2 +1,2 @@
 # dbt-demo
-A repo used to redirect to dbt-demo documentation
+A repo used to redirect to https://boonkeong.com/simple-airports-analysis/dbt/docs/
